@@ -12,7 +12,7 @@ else
     header('location:/home');
 }
 
-
+ob_start();
 
 $router->get('', function(){require '../App/Views/home.php';});
 $router->get('/', function(){require '../App/Views/home.php';});
@@ -27,3 +27,4 @@ $router->get('/score', function(){require '../App/Views/scoreboard.php';});
 
 $router->run();
 
+ob_end_flush();
