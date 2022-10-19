@@ -2,7 +2,7 @@
 
 ####
 
-    Je rendre un jeux de quiz en ligne pour cette projet. Vous pouvez joue en tant que invite.
+    Je rendre un jeux de quiz en ligne pour cette projet. Vous pouvez joue en tant que invite et profite de jouer le quiz.
 
 * Jouabilite en tant que invite
 
@@ -37,21 +37,4 @@
 ####
     Etape 4: Vous pouvez vous connecte en tant que admin utilisateur:admin mot de passe: admin.
 
-## Démarche professionnelle: 
-
-* ### Les difficultés rencontrées:  
-    
-    * Une probleme de autoload qui ne charge pas les classes.
-    * Probleme de logique pour additionner les point si la reponse est bonne
-    * Pas de temps pour utilisation de framework.
-    * Pas de temps pour le design.
-
-* ### Solutions:  
-
-    * Probleme de notation corrige
-    * Creation d'une controller pour additionner les point si la reponse est bonne
-    * Utilisation de MVC
-    * Utilisation de Bootstrap
-
-####
-    Utilisation de mvc avec du bootstrap et mariadb.
+### Check up my my github page.
